@@ -1,0 +1,6 @@
+transaction_id,customer_id,customer_name,city,membership_tier,product_id,product_name,quantity,price,transaction_date
+1001,1,Riandi Winata,Pekanbaru,Gold,501,Oli Mesin Synthetic,2,150000,2026-10-01
+1002,2,Brian,Jakarta,Silver,502,Kampas Rem Depan,1,85000,2026-10-01
+1003,3,Nicholas Capriconelius,Surabaya,Bronze,503,Busi Iridium,4,45000,2026-10-02
+1004,4,Aisyal,Medan,Platinum,504,Filter Udara,1,60000,2026-10-05
+1005,1,Riandi Winata,Pekanbaru,Gold,501,Oli Mesin Synthetic,1,150000,2026-10-05

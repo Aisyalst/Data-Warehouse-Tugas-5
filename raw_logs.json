@@ -1,0 +1,62 @@
+[
+  {
+    "event_id": "EVT-9001",
+    "timestamp": "2026-10-01T10:15:30Z",
+    "user": {
+      "id": 1,
+      "name": "Riandi Winata",
+      "city": "Pekanbaru",
+      "tier": "Gold"
+    },
+    "payload": {
+      "action": "purchase",
+      "product_id": 501,
+      "amount": 300000
+    }
+  },
+  {
+    "event_id": "EVT-9002",
+    "timestamp": "2026-10-01T11:20:10Z",
+    "user": {
+      "id": 2,
+      "name": "Brian",
+      "city": "Jakarta",
+      "tier": "Silver"
+    },
+    "payload": {
+      "action": "purchase",
+      "product_id": 502,
+      "amount": 85000
+    }
+  },
+  {
+    "event_id": "EVT-9003",
+    "timestamp": "2026-10-02T14:05:00Z",
+    "user": {
+      "id": 3,
+      "name": "Nicholas Capriconelius",
+      "city": "Surabaya",
+      "tier": "Bronze"
+    },
+    "payload": {
+      "action": "purchase",
+      "product_id": 504,
+      "amount": 60000
+    }
+  },
+  {
+    "event_id": "EVT-9004",
+    "timestamp": "2026-10-05T14:05:00Z",
+    "user": {
+      "id": 4,
+      "name": "Aisyal",
+      "city": "Medan",
+      "tier": "Platinum"
+    },
+    "payload": {
+      "action": "purchase",
+      "product_id": 504,
+      "amount": 60000
+    }
+  }
+]
